@@ -1,6 +1,7 @@
 # Pantheon MCP server
 
 [![AllMCPs](https://allmcps.com/api/badge/pantheon?style=directory)](https://allmcps.com/mcp/pantheon?verify=28b164ca-6460-4bb1-af7e-9d1bd213581c)
+[![Listed on MCPpedia](https://mcppedia.com/badge/pantheon-mcp.svg)](https://mcppedia.com/servers/pantheon-mcp)
 
 Remote MCP server for [Pantheon.ad](https://pantheon.ad/en), an ad research tool for coaches, consultants, agencies and B2B teams who advertise on Facebook and Instagram.
 
