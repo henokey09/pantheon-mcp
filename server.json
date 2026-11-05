@@ -1,0 +1,15 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ad.pantheon/mcp",
+  "title": "Pantheon",
+  "description": "Meta ads library, competitor ads, brand voice, avatars and offer briefs from your Pantheon account.",
+  "version": "1.0.0",
+  "websiteUrl": "https://pantheon.ad",
+  "icons": [
+    {"src": "https://mcp.pantheon.ad/icon-192.png", "mimeType": "image/png", "sizes": ["192x192"]},
+    {"src": "https://mcp.pantheon.ad/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"]}
+  ],
+  "remotes": [
+    {"type": "streamable-http", "url": "https://mcp.pantheon.ad/mcp"}
+  ]
+}
