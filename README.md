@@ -104,3 +104,5 @@ Long jobs run in the background: the tool returns an id, and `get_job_status` re
 support@pantheon.ad · [pantheon.ad](https://pantheon.ad/en)
 
 The documentation in this repository is released under the MIT license. The Pantheon service is governed by its own terms.
+
+<!-- mcppedia-verify-f5ccb895bfa953601019a26e844cd044 -->
