@@ -1,5 +1,7 @@
 # Pantheon MCP server
 
+[![AllMCPs](https://allmcps.com/api/badge/pantheon?style=directory)](https://allmcps.com/mcp/pantheon?verify=28b164ca-6460-4bb1-af7e-9d1bd213581c)
+
 Remote MCP server for [Pantheon.ad](https://pantheon.ad/en), an ad research tool for coaches, consultants, agencies and B2B teams who advertise on Facebook and Instagram.
 
 Connect it to Claude, Claude Code, Cursor, VS Code or any MCP client and work with your Pantheon account from the chat: search the ads you collected, read the active ads of competitors you analyzed, check this week's Top Ads, and (on the Scale plan) run new analyses and create brand voices and offer briefs.
